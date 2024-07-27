@@ -1,0 +1,5 @@
+{
+  "appId": "com.dowdle.gas.app",
+  "appName": "Gas Tracker",
+  "webDir": "dist"
+}
